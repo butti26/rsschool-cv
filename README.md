@@ -1,2 +1,2 @@
-https://Kiryl_Chuchvaha.github.io/rsschool-cv/cv
+https://butti26.github.io/rsschool-cv/cv
 # rsschool-cv
